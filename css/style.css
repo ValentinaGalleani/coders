@@ -1,0 +1,81 @@
+h1{
+	font-family: 'Kurale', serif; 
+	font-size: 30px;
+	color: #F95759;
+
+}
+
+hr{
+	margin-left: 0px;
+	width: 130px;
+	height: 5px;
+	color: black;
+	background: black;
+	
+}
+
+.womens div{
+	height: 300px;
+	width: 300px;
+	background-size: cover;
+	background-position: center;
+	color: #FFF;
+	float: left;
+	margin-left: 15px;
+} 
+
+.womens p{
+	margin-top: 260px;
+	text-align: right;
+	margin-left: 15px;
+	margin-bottom: : 15px;
+	}
+
+.gabriela{
+	background-image: url(../img/download.jpg);
+
+}
+
+.violeta{
+	background-image: url(../img/violeta-parra.jpg);
+}
+
+.malala{
+	background-image: url(../img/malala.jpg);
+
+}
+
+.valentina{
+	background-image: url(../img/Valentina_Tereshkova.jpg);
+}
+.frida{
+	background-image: url(../img/frida.jpg);
+}
+
+.matilde{
+	background-image: url(../img/matilde-perez.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
